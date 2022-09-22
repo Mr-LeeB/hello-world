@@ -1,6 +1,6 @@
 # hello-world
 my first repository
-## **1.	Cài đặt container trên máy ảo linux.**
+## **1.	Cài đặt container trên máy ảo linux.** Trần Chí Kiên
 ### **a.	Yêu cầu hệ điều hành.**
 -	Để cài đặt Docker Engine, bạn cần phiên bản 64-bit của một trong các phiên bản Ubuntu sau:
     +	Ubuntu Jammy 22.04 (LTS) 
